@@ -1,7 +1,7 @@
 #include "asf.h"
 
-volatile int g_cnt = 0;
-volatile int g_str[10];
+int g_cnt = 0;
+int g_str[10];
 volatile int btn_flag;
 int batata;
 
